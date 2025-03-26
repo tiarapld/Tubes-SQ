@@ -42,12 +42,12 @@ Repository ini berisi berbagai dokumen penting yang digunakan dalam proses *Soft
 
 ## 🚀 **Cara Menggunakan Repository Ini**  
 
-1️⃣ **Fork repository ini ke akun GitHub Anda.**  
+1️⃣ **Fork repository ini ke akun GitHub.**  
 2️⃣ **Clone repository ke komputer lokal:**  
    ```sh
    git clone https://github.com/tiarapld/Tubes-SQ.git
    ```  
-3️⃣ **Buat branch baru untuk pekerjaan Anda:**  
+3️⃣ **Buat branch baru untuk pekerjaan:**  
    ```sh
    git checkout -b feature/uji-fitur
    ```  
@@ -56,7 +56,7 @@ Repository ini berisi berbagai dokumen penting yang digunakan dalam proses *Soft
    git add .
    git commit -m "Menambahkan test case untuk fitur login"
    ```  
-5️⃣ **Push branch ke repository Anda:**  
+5️⃣ **Push branch ke repository:**  
    ```sh
    git push origin feature/uji-fitur
    ```  
