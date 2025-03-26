@@ -1,28 +1,12 @@
-# Tubes-SQ
+# Software Quality Assurance (SQA) Project
 Penggunaan GitHub dalam Pengujian dan Pengukuran Kualitas Perangkat Lunak
+## Deskripsi Proyek  
+Proyek ini bertujuan untuk memastikan kualitas perangkat lunak melalui pengujian yang sistematis.  
+Repository ini berisi dokumen-dokumen penting terkait pengujian perangkat lunak, seperti:  
 
-# Hands on with Red Hat Advanced Cluster Management: Application Portability
+- **Rencana Pengujian (Test Plan):** Strategi dan cakupan pengujian yang digunakan dalam proyek.  
+- **Kasus Uji (Test Cases):** Daftar skenario pengujian yang dilakukan untuk memastikan perangkat lunak berjalan sesuai harapan.  
+- **Laporan Bug (Bug Report):** Dokumentasi kesalahan atau masalah yang ditemukan dalam perangkat lunak.  
 
-During the labs you will be deploying workloads on three OpenShift 4 clusters. 
+## Struktur Repository  
 
-One cluster will be Hub and other three cluster will be Spoke clusters.
-
-We assume clusters are ready Red Hat ACM installed and you have access to clusters, anyway we link the proper documentation during the lab so you can proceed with needed steps.
-
-***Please note:*** Just because we're going to use deployment model based on GitOps, we need to leverage GitHub, so the first prerequisite before starting the lab is to *clone* this repo.
-
-* [Lab  - Prerequisites](./1.md)<br>
-* [Lab  - Login into OpenShift Clusters and Configure Context](./2.md)<br>
-* [Lab  - Git Ops Introduction](./3.md)<br>
-* [Lab  - Deploying and Managing a Project with GitOps](./4.md)<br>
-* [Lab  - Customizing Deployments](./5.md)<br>
-* [Lab  - Deploying MongoDB](./6.md)<br>
-* [Lab  - Deploying Pacman](./7.md)<br>
-* [Lab  - Application Portability](./8.md)<br>
-* [Lab  - Canary Deployments](./9.md)<br>
-
------
-Disclaimer 
-This lab is RH ACM translated version of https://github.com/tiarapld/Tubes-SQ . 
-Thanks to contributors of referenced lab. 
------
